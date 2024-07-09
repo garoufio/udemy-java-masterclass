@@ -1,6 +1,6 @@
-package com.udemy.javamasterclass.chapter1;
+package com.udemy.javamasterclass.setction4;
 
-public class HelloWorld {
+public class Main {
 
   public static void main(String[] args) {
     System.out.println("Hello world");
