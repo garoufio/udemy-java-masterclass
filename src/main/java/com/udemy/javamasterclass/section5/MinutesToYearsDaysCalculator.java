@@ -1,4 +1,4 @@
-package com.udemy.javamasterclass.setction5;
+package com.udemy.javamasterclass.section5;
 
 public class MinutesToYearsDaysCalculator {
   

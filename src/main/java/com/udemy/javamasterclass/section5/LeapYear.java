@@ -1,4 +1,4 @@
-package com.udemy.javamasterclass.setction5;
+package com.udemy.javamasterclass.section5;
 
 public class LeapYear {
   
@@ -9,5 +9,5 @@ public class LeapYear {
     
     return false;
   }
-  
+
 }

@@ -1,4 +1,4 @@
-package com.udemy.javamasterclass.setction4;
+package com.udemy.javamasterclass.section4;
 
 public class Main {
 
